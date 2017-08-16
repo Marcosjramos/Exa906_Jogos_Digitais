@@ -5,7 +5,7 @@ using UnityEngine;
 public class geradorAtomo : MonoBehaviour {
     public GameObject[] atomos;
     public float tempoDeGerar;
-    public float tempoAtual;
+    private float tempoAtual;
     private int contador;//usado pra pegar a posicao do array
     private int posicao;
     private float y;

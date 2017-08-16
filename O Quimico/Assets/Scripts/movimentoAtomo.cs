@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class movimentoAtomo : MonoBehaviour {
    public Rigidbody2D corpoAtomo;
@@ -14,12 +15,12 @@ public class movimentoAtomo : MonoBehaviour {
 	void Update () {
         corpoAtomo.AddForce(new Vector2(deslocamento, 0));//adiciona um deslocamento a esquerda quando criado
 
-        if (transform.position.x<=-200) {//destroi o objeto criado na posição -100
-            Destruir();
+        if (transform.position.x<=-200) {//destroi o objeto criado na posição -200
+            SceneManager.LoadScene("GameOver");
         }
 		
 	}
-    private void Destruir() {
-        Destroy(transform.gameObject);
-    }
+  //  private void Destruir() {
+  //      Destroy(transform.gameObject);
+  //  }
 }

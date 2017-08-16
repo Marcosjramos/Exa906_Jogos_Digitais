@@ -1,0 +1,61 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   8.15.10.2559
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Infor andrade\Documents\O Quimico\quimico_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.184600 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.519549 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 2.506035 ms (FindLiveObjects: 0.046675 ms CreateObjectMapping: 0.031758 ms MarkObjects: 0.291600 ms  DeleteObjects: 2.134556 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.632764 ms
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 1.417584 ms (FindLiveObjects: 0.038495 ms CreateObjectMapping: 0.018285 ms MarkObjects: 0.256955 ms  DeleteObjects: 1.101924 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.754505 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 2.849123 ms (FindLiveObjects: 0.042825 ms CreateObjectMapping: 0.020209 ms MarkObjects: 0.255992 ms  DeleteObjects: 2.529132 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.619772 ms
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 1.573971 ms (FindLiveObjects: 0.048600 ms CreateObjectMapping: 0.023578 ms MarkObjects: 0.326727 ms  DeleteObjects: 1.173621 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.502843 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 2.801966 ms (FindLiveObjects: 0.033202 ms CreateObjectMapping: 0.018285 ms MarkObjects: 0.246850 ms  DeleteObjects: 2.502185 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d34 -> priority: 1 
+  Thread -> id: 15bc -> priority: 1 
