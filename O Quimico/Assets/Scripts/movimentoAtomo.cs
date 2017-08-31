@@ -16,11 +16,11 @@ public class movimentoAtomo : MonoBehaviour {
         corpoAtomo.AddForce(new Vector2(deslocamento, 0));//adiciona um deslocamento a esquerda quando criado
 
         if (transform.position.x<=-200) {//destroi o objeto criado na posição -200
-            SceneManager.LoadScene("GameOver");
+            Destruir();
         }
 		
 	}
-  //  private void Destruir() {
-  //      Destroy(transform.gameObject);
-  //  }
+   private void Destruir() {
+       Destroy(transform.gameObject);
+   }
 }

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/MenuInicial.unity
+- path: Assets/Scenes/missao1v2.unity
   isLoaded: 1
   isActive: 1

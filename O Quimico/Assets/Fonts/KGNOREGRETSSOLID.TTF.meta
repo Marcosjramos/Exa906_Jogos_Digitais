@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 28ae29877dbf15347b0c9d53fd142f3e
+timeCreated: 1503951185
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG No Regrets Solid
+  fontNames:
+  - KG No Regrets Solid
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

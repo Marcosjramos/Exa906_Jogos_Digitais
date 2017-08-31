@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd067174a94275d41ae94c9a34e73f4b
+timeCreated: 1503951183
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG No Regrets Sketch
+  fontNames:
+  - KG No Regrets Sketch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
